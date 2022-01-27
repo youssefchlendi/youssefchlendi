@@ -12,7 +12,7 @@
      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">    <img  alt="youssefchlendi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/youssefchlendi?cardType=level-alternate&theme=dark" />  </a><br>
      <img alt="mohamed youssef chlend" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefchlendi&layout=compact&theme=dark">
      <br>
-     <img alt="mohamed youssef chlendi" src="https://github-profile-trophy.vercel.app/?username=youssefchlendi&theme=onedark&rank=S,A,AA,AAA&column=3">
+     <img alt="mohamed youssef chlendi" src="https://github-profile-trophy.vercel.app/?username=youssefchlendi&theme=onedark&column=3">
  <!--
 **youssefchlendi/youssefchlendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
