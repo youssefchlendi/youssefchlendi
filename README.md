@@ -21,6 +21,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefchlendi&show_icons=true&locale=en&theme=dark" alt="youssefchlendi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefchlendi&theme=dark" alt="youssefchlendi" /></p>
+     <img alt="mohmaed" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=youssefchlendi"/>
+     <img alt="mohamed"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=youssefchlendi&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
+     <img alt="t" style='background-color:white' src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=youssefchlendi&style=background-color:lightgrey"/>
+
 <!-- <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-youssef-chlendi-1b5624183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Youssef Chlendi" height="30" width="40" /></a>
