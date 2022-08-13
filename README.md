@@ -33,6 +33,10 @@
  
      <br>
      <img alt="mohamed youssef chlendi" src="https://github-profile-trophy.vercel.app/?username=youssefchlendi&theme=gruvbox&column=3">
+     <img alt="mohmaed" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=youssefchlendi">
+     <img alt="mohamed"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=youssefchlendi&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px">
+     <img alt="t" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=youssefchlendi">
+     
  <!--
 **youssefchlendi/youssefchlendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
