@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Mohamed youssef CHLENDI 👋
 
-- 🌱 I’m currently learning IonicVue , .NET, Flutter
+- 🌱 I’m currently learning IonicVue, Flutter
 - 💬 Ask me about anything web related
 - 📫 How to reach me: **Email : youssef.chlendi@gmail.com**
 
