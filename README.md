@@ -1,8 +1,9 @@
+[![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
 
 ### Hi there, I'm Mohamed youssef CHLENDI 👋
 
-- 🌱 I’m currently learning IonicVue, Flutter
-- 💬 Ask me about anything web related
+- 🌱 I’m currently learning UWP, Xamarin
+- 💬 Ask me about anything Tech related
 - 📫 How to reach me: **Email : youssef.chlendi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
